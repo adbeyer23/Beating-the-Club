@@ -5,4 +5,4 @@ With 200,000+ rows of loan data from LendingClub.com, I created a random forest 
 
 Currently only the flask app and slides are here. The rest of the code is coming soon.
 
-FYI: The presentation was done as like a sleezy sales pitch--hence the bizarreness of some of the slides.
+FYI: I did this presentation like a sleazy sales pitch or infomercial-hence the bizarreness of some of the slides.
